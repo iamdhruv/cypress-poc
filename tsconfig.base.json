@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@cypress-poc/shared": ["packages/shared/src/index.ts"]
+      "@cypress-poc/shared/*": ["packages/shared/src/*"]
     }
   },
   "exclude": ["node_modules", "tmp"]

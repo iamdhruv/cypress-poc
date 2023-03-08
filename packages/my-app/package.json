@@ -1,0 +1,8 @@
+{
+    "name": "@cypress-poc/my-app",
+    "version": "0.0.1",
+    "scripts": {
+        "cypress-open": "cypress open"
+    }
+  }
+  
