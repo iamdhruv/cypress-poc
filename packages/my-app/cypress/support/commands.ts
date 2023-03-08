@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import { mount } from 'cypress/react18'
+import { mount } from 'cypress/react'
 
 // ***********************************************
 // This example commands.ts shows you how to
